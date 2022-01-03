@@ -1,6 +1,11 @@
 body{
     background: linear-gradient(lime, cyan);
 }
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: cornflowerblue;
+}
 .Download{
     color: blueviolet;
     text-align: center;
