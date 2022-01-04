@@ -3,11 +3,14 @@ body{
 }
 .title{
     text-align: center;
-    font-size: 50px;
+    font-size: 70px;
     color: cornflowerblue;
 }
-.Download{
-    color: blueviolet;
+.downloadText{
+    color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
+}
+.downloadButton{
+    background-color: blue;
 }
